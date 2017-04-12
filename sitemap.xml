@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/04/11/my-second/</loc>
+    <loc>http://raymondworks.com/about/index.html</loc>
+    
+    <lastmod>2017-04-12T20:22:45.457Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://raymondworks.com/2017/04/11/my-second/</loc>
     
     <lastmod>2017-04-11T19:53:23.226Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/04/11/hello-world/</loc>
+    <loc>http://raymondworks.com/2017/04/11/hello-world/</loc>
     
     <lastmod>2017-04-11T19:22:05.806Z</lastmod>
     
